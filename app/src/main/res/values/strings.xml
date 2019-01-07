@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Diabeto</string>
+    <string name="email_enter">Enter your email ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_link">Not yet Member? Sign Up</string>
+    <string name="user_name_register">Enter your name</string>
+    <string name="user_email_register">Enter your Email ID</string>
+    <string name="user_age_register">Enter your Age</string>
+    <string name="user_mobile_number_regsiter">Enter your mobile Number</string>
+    <string name="register_page">REGISTER</string>
+    <string name="link_to_login">Already a member! Login in</string>
 </resources>
