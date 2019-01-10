@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimary">#8f35c5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#8f35c5</color>
     <color name="theme_color_purple">#7B1FA2</color>
     <color name="theme_color_purple_two">#D500F9</color>
     <color name="theme_button_color">#F06292</color>
     <color name="theme_button_color_two">#F9A825</color>
 
     <!-- From androidhive -->
-    <color name="bg_login">#26ae90</color>
+    <color name="bg_login">#d1c4e9</color>
     <color name="bg_register">#2e3237</color>
     <color name="bg_main">#428bca</color>
     <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
     <color name="input_login">#222222</color>
     <color name="input_login_hint">#999999</color>
     <color name="input_register">#888888</color>
     <color name="input_register_bg">#3b4148</color>
     <color name="input_register_hint">#5e6266</color>
-    <color name="btn_login">#26ae90</color>
-    <color name="btn_login_bg">#eceef1</color>
+    <color name="btn_login">#ffffff</color>
+    <color name="btn_login_bg">#8f35c5</color>
     <color name="lbl_name">#333333</color>
     <color name="btn_logut_bg">#ff6861</color>
+    <color name="cardcolor">#ba68c8</color>
 </resources>

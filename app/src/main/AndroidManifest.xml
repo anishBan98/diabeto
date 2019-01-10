@@ -22,8 +22,13 @@
             </intent-filter>
         </activity>
         <!-- MainActivity -->
-        <activity android:name=".MainActivity" />
-        <activity android:name=".RegisterActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/LoginTheme"/>
+        <activity android:name=".RegisterActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/RegisterTheme"/>
         <activity android:name=".HomeActivity"></activity>
     </application>
 
